@@ -1,0 +1,23 @@
+{
+  "name": "unicode-tools",
+  "version": "0.0.1",
+  "homepage": "https://github.com/graphicore/unicode-tools",
+  "authors": [
+    "Lasse Fister <commander@graphicore.de>"
+  ],
+  "description": "A Unicode library to support font creation software.",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "unicode"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
